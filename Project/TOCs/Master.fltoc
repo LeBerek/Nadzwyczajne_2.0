@@ -10,6 +10,12 @@
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/A_Exceptional Consignments/Definition.htm" />
+    <TocEntry
+      Title="Participants"
+      Link="/Content/A_Exceptional Consignments/Participants.htm"></TocEntry>
+    <TocEntry
+      Title="Documents"
+      Link="/Content/A_Exceptional Consignments/Documents.htm" />
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
