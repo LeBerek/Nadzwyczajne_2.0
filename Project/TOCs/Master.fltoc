@@ -3,7 +3,7 @@
   Version="1">
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/A_Exceptional Consignments/Participants.htm">
+    Link="/Content/A_Exceptional Consignments/Exceptional Consignments.htm">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/A_Exceptional Consignments/Project Scope.htm" />
@@ -19,7 +19,7 @@
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/B_Fouled Gauge/Features.htm">
+    Link="/Content/B_Fouled Gauge/Fouled Gauge.htm">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/B_Fouled Gauge/Feature1.htm" />
@@ -32,7 +32,7 @@
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/C_Heavy/Procedures.htm">
+    Link="/Content/C_Heavy/Heavy.htm">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/C_Heavy/Procedure1.htm" />
@@ -42,6 +42,19 @@
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/C_Heavy/Procedure3.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Other"
+    Link="/Content/D_Other/Other.htm">
+    <TocEntry
+      Title="Other 1"
+      Link="/Content/D_Other/Other1.htm" />
+    <TocEntry
+      Title="Other 2"
+      Link="/Content/D_Other/Other2.htm"></TocEntry>
+    <TocEntry
+      Title="Other 3"
+      Link="/Content/D_Other/Other3.htm" />
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
