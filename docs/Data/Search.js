@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A_Exceptional Consignments/Definition.htm'],s:['+'],p:[['+',2],['headings',29],['the',23]]});
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A_Exceptional Consignments/Definition.htm'],s:['+'],p:[['+',2],['gravity',4],['text',6]]});
