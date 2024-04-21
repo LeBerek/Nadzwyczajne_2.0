@@ -3,70 +3,70 @@
   Version="1">
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/A_Exceptional Consignments/Exceptional Consignments.htm">
+    Link="/Content/Exceptional Consignments/Exceptional Consignments.htm">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/A_Exceptional Consignments/Project Scope.htm" />
+      Link="/Content/Exceptional Consignments/Project Scope.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/A_Exceptional Consignments/Definition.htm" />
+      Link="/Content/Exceptional Consignments/Definition.htm" />
     <TocEntry
       Title="Participants"
-      Link="/Content/A_Exceptional Consignments/Participants.htm"></TocEntry>
+      Link="/Content/Exceptional Consignments/Participants.htm"></TocEntry>
     <TocEntry
       Title="Documents"
-      Link="/Content/A_Exceptional Consignments/Documents.htm" />
+      Link="/Content/Exceptional Consignments/Documents.htm" />
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/B_Fouled Gauge/Fouled Gauge.htm">
+    Link="/Content/B_Fouled Gauge/Out-of-Gauge Load.htm">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/B_Fouled Gauge/Feature1.htm" />
+      Link="/Content/B_Fouled Gauge/Loading Gauge.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/B_Fouled Gauge/Feature2.htm" />
+      Link="/Content/B_Fouled Gauge/Critical Points.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/B_Fouled Gauge/Feature3.htm" />
+      Link="/Content/B_Fouled Gauge/Remarks to Critical Points.htm" />
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/C_Heavy/Heavy.htm">
+    Link="/Content/Heavy Load/Heavy Load.htm">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/C_Heavy/Procedure1.htm" />
+      Link="/Content/Heavy Load/Exceeded Line's Category.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/C_Heavy/Procedure2.htm" />
+      Link="/Content/Heavy Load/Excess to Load Limit.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/C_Heavy/Procedure3.htm" />
+      Link="/Content/Heavy Load/No Details on Load Limits.htm" />
   </TocEntry>
   <TocEntry
     Title="Other"
-    Link="/Content/D_Other/Other.htm">
+    Link="/Content/Other Exceptional Consignments/Other Exceptional Consignments.htm">
     <TocEntry
       Title="Other 1"
-      Link="/Content/D_Other/Other1.htm" />
+      Link="/Content/Other Exceptional Consignments/Rigid Loads.htm" />
     <TocEntry
       Title="Other 2"
-      Link="/Content/D_Other/Other2.htm"></TocEntry>
+      Link="/Content/Other Exceptional Consignments/Other2.htm"></TocEntry>
     <TocEntry
       Title="Other 3"
-      Link="/Content/D_Other/Other3.htm" />
+      Link="/Content/Other Exceptional Consignments/Other3.htm" />
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/E_More Information/Company Information.htm">
+    Link="/Content/Handy Information/Handy Information.htm">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/E_More Information/FAQs.htm" />
+      Link="/Content/Handy Information/FAQs.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/E_More Information/PDF Downloads.htm" />
+      Link="/Content/Handy Information/PDF Downloads.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/E_More Information/Tips.htm" />
+      Link="/Content/Handy Information/Tips.htm" />
   </TocEntry>
 </CatapultToc>
