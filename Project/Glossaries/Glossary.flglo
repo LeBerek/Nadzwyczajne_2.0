@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultGlossary>
   <GlossaryEntry
     glossTerm="Glossary.Term0">
@@ -135,5 +135,26 @@
     </Terms>
     <Definition
       Link="">A special target that lets you build and/or publish multiple other targets in a single group (or "batch"). You can schedule batches to run at any time.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    SortAs="Vehicle"
+    glossTerm="Glossary.Term16">
+    <Terms>
+      <Term>European Vehicle Number (EVN)</Term>
+    </Terms>
+    <Definition>The unique number consists of 12-digits which identify technical characteristics of the railway vehicle. EVNs are managed in the European Vehicle Register (EVR).</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    SortAs="Vehicle"
+    glossTerm="Glossary.Term17">
+    <Terms>
+      <Term>European Vehicle Number (EVN) Status</Term>
+    </Terms>
+    <Definition>Reserved Status:
+The status is assigned during the testing phase of a vehicle.The number is allocated but not yet officially assigned to the vehicle. The number may be already marked on the vehicle. The number remains in a reserved state until the vehicle is ready for market introduction.
+Active Status:
+When a vehicle is ready to be introduced to the market, the reserved EVN becomes active. It signifies that the vehicle is officially registered and operational.
+Deleted Status:
+The status indicates that the EVN is no longer valid. The reason for EVN deletion can be for any reason, for example the vehicle is no longer in service or if the registration needs to be revoked.</Definition>
   </GlossaryEntry>
 </CatapultGlossary>

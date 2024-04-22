@@ -60,10 +60,10 @@
     Link="/Content/Other Exceptional Consignments/Other Exceptional Consignments.htm">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Other Exceptional Consignments/Rigid Loads.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Other Exceptional Consignments/Rigid Load Units.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Other Exceptional Consignments/Flexible Loads.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Other Exceptional Consignments/Flexible Load Units.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Other Exceptional Consignments/Transhipment.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
