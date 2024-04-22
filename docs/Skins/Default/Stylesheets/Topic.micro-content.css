@@ -465,6 +465,43 @@
 	text-decoration: none;
 }
 
+.micro-response155323006 .glossaryTerm
+{
+	font-weight: bold;
+	color: Olive;
+}
+
+.micro-response155323006 .glossaryTerm:link
+{
+	font-weight: bold;
+	color: Olive;
+}
+
+.micro-response155323006 .MCTextPopup_Open.MCTextPopupHotSpot_
+{
+	background-position: right;
+	background-image: url('ExpandingOpen.gif');
+	padding-right: 1px;
+	padding-left: 0;
+}
+
+.micro-response155323006 .MCTextPopup_Closed.MCTextPopupHotSpot_
+{
+	background-position: right;
+	background-image: url('ExpandingClosed.gif');
+	padding-right: 0px;
+	padding-left: 0;
+}
+
+.micro-response155323006 .popupBody
+{
+	color: #000000;
+	background-color: #dcdcdc;
+	border: solid 1px #000000;
+	margin: 0px;
+	padding: 5px;
+}
+
 .micro-response155323006 .MCWebHelpFramesetLink a
 {
 	

@@ -465,6 +465,43 @@ a.glossaryTerm
 	text-decoration: none;
 }
 
+.glossaryTerm
+{
+	font-weight: bold;
+	color: Olive;
+}
+
+.glossaryTerm:link
+{
+	font-weight: bold;
+	color: Olive;
+}
+
+.MCTextPopup_Open.MCTextPopupHotSpot_
+{
+	background-position: right;
+	background-image: url('ExpandingOpen.gif');
+	padding-right: 1px;
+	padding-left: 0;
+}
+
+.MCTextPopup_Closed.MCTextPopupHotSpot_
+{
+	background-position: right;
+	background-image: url('ExpandingClosed.gif');
+	padding-right: 0px;
+	padding-left: 0;
+}
+
+.popupBody
+{
+	color: #000000;
+	background-color: #dcdcdc;
+	border: solid 1px #000000;
+	margin: 0px;
+	padding: 5px;
+}
+
 .MCWebHelpFramesetLink a
 {
 	
