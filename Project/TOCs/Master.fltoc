@@ -19,7 +19,7 @@
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/Out-of-Gauge/Out-of-Gauge Load.htm">
+    Link="/Content/Out-of-Gauge/Out-of-Gauge.htm">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Out-of-Gauge/Loading Gauge.htm" />
@@ -44,7 +44,7 @@
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/Heavy/Heavy Load.htm">
+    Link="/Content/Heavy/Heavy.htm">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Heavy/Exceeded Line's Category.htm" />
@@ -57,7 +57,7 @@
   </TocEntry>
   <TocEntry
     Title="Other Exceptional Consignments"
-    Link="/Content/Other/Other Exceptional Consignments.htm">
+    Link="/Content/Other/Other.htm">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Other/Rigid Load Units.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
@@ -82,7 +82,7 @@
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/Handy/Handy Information.htm">
+    Link="/Content/Handy/Handy.htm">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Handy/FAQs.htm" />
