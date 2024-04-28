@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultSkin
-  Version="3"
+  Version="6"
   SkinType="Component"
   Comment="HTML5 Toolbar skin"
   ComponentType="TopicToolbar"
@@ -37,21 +37,21 @@
             Name="Print">
             <Properties>
               <Property
-                Name="BackgroundImage">url('icon-print-gray.png')</Property>
+                Name="ButtonIcon">url('icon-print-gray.png')</Property>
             </Properties>
           </StyleClass>
           <StyleClass
             Name="NextTopic">
             <Properties>
               <Property
-                Name="BackgroundImage">url('icon-arrow-right-gray.png')</Property>
+                Name="ButtonIcon">url('icon-arrow-right-gray.png')</Property>
             </Properties>
           </StyleClass>
           <StyleClass
             Name="PreviousTopic">
             <Properties>
               <Property
-                Name="BackgroundImage">url('icon-arrow-left-gray_1.png')</Property>
+                Name="ButtonIcon">url('icon-arrow-left-gray_1.png')</Property>
             </Properties>
           </StyleClass>
         </Classes>
@@ -87,7 +87,7 @@
     </Resources>
   </Stylesheet>
   <TopicToolbar
-    EnableCustomLayout="true"
-    Buttons="PreviousTopic|NextTopic|Print|ExpandAll" />
+    EnableCustomLayout="false"
+    Buttons="PreviousTopic|CurrentTopicIndex|NextTopic" />
   <Strings />
 </CatapultSkin>

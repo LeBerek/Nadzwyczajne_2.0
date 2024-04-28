@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultSkin
-  Version="3"
+  Version="6"
   SkinType="WebHelp2"
   ComponentType="MasterPage"
   TemplateName="Fluid"
@@ -80,6 +80,8 @@
             Name="Float">right</Property>
           <Property
             Name="AlignmentHorizontal">right</Property>
+          <Property
+            Name="Stretch">yes</Property>
         </Properties>
         <Classes>
           <StyleClass
@@ -267,12 +269,20 @@
           </Properties>
         </Style>
       </Medium>
+      <Style
+        Name="Search Micro Content Response Button">
+        <Properties>
+          <Property
+            Name="BackgroundRepeat">no-repeat</Property>
+        </Properties>
+      </Style>
     </Styles>
     <Stylesheet></Stylesheet>
   </Stylesheet>
   <WebHelpOptions
     NavigationPanePosition="Right"
-    EnableSticky="None" />
+    EnableSticky="All"
+    MainMenuPosition="Top" />
   <Strings>
     <Stylesheet
       lang="en-us">
