@@ -282,7 +282,7 @@
   <WebHelpOptions
     NavigationPanePosition="Right"
     EnableSticky="All"
-    MainMenuPosition="Top" />
+    MainMenuPosition="Right" />
   <Strings>
     <Stylesheet
       lang="en-us">
