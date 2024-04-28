@@ -19,78 +19,78 @@
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/Out-of-Gauge Load/Out-of-Gauge Load.htm">
+    Link="/Content/Out-of-Gauge/Out-of-Gauge Load.htm">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Out-of-Gauge Load/Loading Gauge.htm" />
+      Link="/Content/Out-of-Gauge/Loading Gauge.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Out-of-Gauge Load/Critical Points.htm" />
+      Link="/Content/Out-of-Gauge/Critical Points.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Out-of-Gauge Load/Remarks to Critical Points.htm" />
+      Link="/Content/Out-of-Gauge/Remarks to Critical Points.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Out-of-Gauge Load/Combined Transport.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Out-of-Gauge/Combined Transport.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Out-of-Gauge Load/Outline Procedure.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Out-of-Gauge/Outline Procedure.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Out-of-Gauge Load/Vehicle Gague.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Out-of-Gauge/Vehicle Gague.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Out-of-Gauge Load/Structure Gauge.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Out-of-Gauge/Structure Gauge.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/Heavy Load/Heavy Load.htm">
+    Link="/Content/Heavy/Heavy Load.htm">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Heavy Load/Exceeded Line's Category.htm" />
+      Link="/Content/Heavy/Exceeded Line's Category.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Heavy Load/Excess to Load Limit.htm" />
+      Link="/Content/Heavy/Excess to Load Limit.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Heavy Load/No Details on Load Limits.htm" />
+      Link="/Content/Heavy/No Details on Load Limits.htm" />
   </TocEntry>
   <TocEntry
     Title="Other Exceptional Consignments"
-    Link="/Content/Other Exceptional Consignments/Other Exceptional Consignments.htm">
+    Link="/Content/Other/Other Exceptional Consignments.htm">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Other Exceptional Consignments/Rigid Load Units.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Other/Rigid Load Units.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Other Exceptional Consignments/Flexible Load Units.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Other/Flexible Load Units.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Other Exceptional Consignments/Transhipment.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Other/Transhipment.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Other Exceptional Consignments/Handover to Ferry.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Other/Handover to Ferry.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Other Exceptional Consignments/Lack of Interoperability.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Other/Lack of Interoperability.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Other Exceptional Consignments/Special Technical Vehicles.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Other/Special Technical Vehicles.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Other Exceptional Consignments/Other National Rules.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Other/Other National Rules.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/Handy Information/Handy Information.htm">
+    Link="/Content/Handy/Handy Information.htm">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Handy Information/FAQs.htm" />
+      Link="/Content/Handy/FAQs.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Handy Information/PDF Downloads.htm" />
+      Link="/Content/Handy/PDF Downloads.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Handy Information/Tips.htm" />
+      Link="/Content/Handy/Tips.htm" />
   </TocEntry>
 </CatapultToc>
