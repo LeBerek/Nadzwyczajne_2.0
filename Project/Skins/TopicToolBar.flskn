@@ -87,7 +87,7 @@
     </Resources>
   </Stylesheet>
   <TopicToolbar
-    EnableCustomLayout="false"
-    Buttons="PreviousTopic|CurrentTopicIndex|NextTopic" />
+    EnableCustomLayout="true"
+    Buttons="PreviousTopic|CurrentTopicIndex|NextTopic|ExpandAll" />
   <Strings />
 </CatapultSkin>

@@ -80,8 +80,6 @@
             Name="Float">right</Property>
           <Property
             Name="AlignmentHorizontal">right</Property>
-          <Property
-            Name="Stretch">yes</Property>
         </Properties>
         <Classes>
           <StyleClass
@@ -282,7 +280,7 @@
   <WebHelpOptions
     NavigationPanePosition="Right"
     EnableSticky="All"
-    MainMenuPosition="Right" />
+    MainMenuPosition="Top" />
   <Strings>
     <Stylesheet
       lang="en-us">
