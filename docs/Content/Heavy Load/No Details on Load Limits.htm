@@ -30,6 +30,16 @@
 	-pie-background: linear-gradient(#ffffff, #ececec);
 }
 
+.button.expand-all-button
+{
+	-pie-background: linear-gradient(#ffffff, #ececec);
+}
+
+.button.collapse-all-button
+{
+	-pie-background: linear-gradient(#ffffff, #ececec);
+}
+
 .needs-pie
 {
 	behavior: url('../../Resources/Scripts/PIE-no-motw.htc');
@@ -151,6 +161,13 @@
                                                         <button class="button needs-pie next-topic-button" title="Navigate next" disabled="true">
                                                             <div>
                                                                 <div role="img" class="button-icon-wrapper" aria-label="Navigate next">
+                                                                    <div class="button-icon"> </div>
+                                                                </div>
+                                                            </div>
+                                                        </button>
+                                                        <button class="button needs-pie expand-all-button" data-state1-class="expand-all-button" data-state2-class="collapse-all-button" data-state2-title="Collapse all" title="Expand all" data-state1-title="Expand all">
+                                                            <div>
+                                                                <div role="img" class="button-icon-wrapper" aria-label="Expand all">
                                                                     <div class="button-icon"> </div>
                                                                 </div>
                                                             </div>
