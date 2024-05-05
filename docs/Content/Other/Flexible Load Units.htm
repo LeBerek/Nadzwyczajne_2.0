@@ -4,6 +4,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="msapplication-config" content="../../Skins/Favicons/browserconfig.xml" />
+        <link rel="apple-touch-icon" sizes="180x180" href="../../Skins/Favicons/apple-touch-icon.png" />
+        <link rel="shortcut icon" href="../../Skins/Favicons/favicon-32x32.png" />
+        <link rel="icon" sizes="96x96" href="../../Skins/Favicons/favicon-96x96.png" />
+        <link rel="icon" sizes="32x32" href="../../Skins/Favicons/favicon-32x32.png" />
+        <link rel="icon" sizes="16x16" href="../../Skins/Favicons/favicon-16x16.png" />
         <meta charset="utf-8" /><title>Flexible Load Units</title>
         <link href="../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
         <link href="../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" type="text/css" data-mc-generated="True" />
@@ -46,6 +52,11 @@
 }
 
 </style>
+        <link rel="apple-touch-icon" sizes="180x180" href="../../Skins/Favicons/apple-touch-icon.png" />
+        <link rel="shortcut icon" href="../../Skins/Favicons/favicon-32x32.png" />
+        <link rel="icon" sizes="96x96" href="../../Skins/Favicons/favicon-96x96.png" />
+        <link rel="icon" sizes="32x32" href="../../Skins/Favicons/favicon-32x32.png" />
+        <link rel="icon" sizes="16x16" href="../../Skins/Favicons/favicon-16x16.png" />
         <script src="../../Resources/Scripts/jquery.min.js" type="text/javascript">
         </script>
         <script src="../../Resources/Scripts/purify.min.js" type="text/javascript" defer="defer">
@@ -144,7 +155,83 @@
                                             <div>
                                                 <div role="main" id="mc-main-content">
                                                     <h1>Flexible Load Units</h1>
-                                                    <p>Flexible load units loaded on more than two wagons. For example rails which are longer than 36 meters</p>
+                                                    <p>In exceptional transports goods are usually considered while loaded on individual wagons. Goods longer than the maximum loading length of the wagon, and beyond the wagon length spread on several wagons can also be transported by rail, when some restrictions are observed. Restrictions for long goods exceeding wagon loading length vary depending on the flexibility of the load.</p>
+                                                    <h2>Definition</h2>
+                                                    <p><b>Flexible load units</b> which are <b>loaded on more than two wagons</b> are transported as exceptional consignments.<br /></p>
+                                                    <h2>Use Cases</h2>
+                                                    <p>Flexible units like:</p>
+                                                    <ul>
+                                                        <li>  rails longer than 36 m, </li>
+                                                        <li>steel rods for concrete, </li>
+                                                        <li>plastic pipes and etc.</li>
+                                                    </ul>
+                                                    <p>when loaded on sets of several wagons with collapsible end boards or stanchions they are to be transported as exceptional consignments. On networks of: BDZ, EWS, FS, HZ, MZ, ZFBH, ZRS, ZS, ÖBB, PKP, ADIF, ASTOC, SNCB, SNCF, SZ and TCDD, load units loaded on more than two wagons are considered exceptional consignments, even when they are forwarded in block trains.</p>
+                                                    <p>On certain railways <a href="Other National Rules.htm" class="MCTopic MCTopicPopupHotSpot MCXref xref" title="Find out where it is normal transport">Other National Rules</a> apply for such transports in line with UIC&#160;Loading Guidelines provisions.</p>
+                                                    <h2>Long Rails </h2>
+                                                    <p>Steel is more flexible than one may think at a first glance.  The longer the rails are the longer wagon sets are needed to transport them. For example for rails long 120 m it may take from 6 to 9 wagons to compose a wagon set. Rails are transported in layers on the flat wagon sets. Rail layers are supported by fixing blocks and supportive frames. Fixing long rails  in supportive frames, neither too loosely nor to firmly, allows rails to simultaneously shift on curves to accommodate to small curves such as with radius of  150 m. </p>
+                                                    <p>See how rails in layers behave on S curve at the siding of Voelstapine AG.</p>
+                                                    <p>
+                                                        <img src="../Resources/Images/Assets/Images/im_web_c-regine-schoettl-6480_S-curve.jpg" title="Source: Corporate Blog Voelstapine AG - C: Regine Schoetl 6480 (jpg)" alt="Long rails on S-bend curve at siding of Volestapine AG - C: Regine Schoetl 6480 (jpg)" />
+                                                    </p>
+                                                    <p>In the case of the flexible goods which cover the coupling zone longitudinal play must be taken into account. The transport units must be coupled in such a way that the buffers are in slight contact. This is important in order to maintain an even load on the wheel sets of the individual wagons throughout the set. If there are significant variations in the height of buffers, it could lead to the infrastructure manager’s (IM) rolling stock detection and monitoring systems registering false axle overload conditions. This might be detected in certain wagons that are carrying long, flexible loads within the set. It is virtually impossible to correct rail's loading method while on wagon set during transport, and therefore such situations should  be actively avoided.</p>
+                                                    <h2>Consignment Application</h2>
+                                                    <table style="width: 100%;">
+                                                        <col style="width: 84px;" />
+                                                        <col />
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>Code</td>
+                                                                <td>Declare in application </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>#1a</td>
+                                                                <td>Type and total length of the shipment in meters</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>#5</td>
+                                                                <td>All axles for the wagon set</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>#6a</td>
+                                                                <td>Summed up length of the wagon set</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>#7</td>
+                                                                <td>Tare weight of single wagon</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>#8</td>
+                                                                <td>The total mass of the load on the wagon set /progressive, variants possible</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>
+                                                                    <li>#11 </li>
+                                                                </td>
+                                                                <td>The total length of the load on the wagon set</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>
+                                                                    <li>#12-15</li>
+                                                                </td>
+                                                                <td>Loading gauge not exceeded</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>#24</td>
+                                                                <td>Reduced speed for the wagon set</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>
+                                                                    <li>#29</li>
+                                                                </td>
+                                                                <td>
+                                                                    <p>These consignments may not be subject to hump or fly shunting, nor may they collide with other vehicles that have been fly or hump shunted.
+<br />Trains including these transport units may not be pushed.
+<br />Wagon sets must not be separated</p>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                    <p>&#160;</p>
                                                 </div>
                                             </div>
                                             <div>

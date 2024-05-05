@@ -430,41 +430,6 @@
 	opacity: 0;
 }
 
-.micro-response155323006 .dropDownHotspot
-{
-	font-weight: bold;
-	color: #427aa9;
-	text-decoration: none;
-}
-
-.micro-response155323006 .dropDownHotspot:link
-{
-	font-weight: bold;
-	color: #427aa9;
-	text-decoration: none;
-}
-
-.micro-response155323006 .MCDropDown_Open .MCDropDownHotSpot_.MCHotSpotImage
-{
-	background-position: left;
-	background-image: url('arrow-down-gray.png');
-	padding-left: 0px;
-	padding-right: 0;
-}
-
-.micro-response155323006 .MCDropDown_Closed .MCDropDownHotSpot_.MCHotSpotImage
-{
-	background-position: left;
-	background-image: url('arrow-right-gray.png');
-	padding-left: 0px;
-	padding-right: 0;
-}
-
-.micro-response155323006 .dropDownHead
-{
-	text-decoration: none;
-}
-
 .micro-response155323006 .glossaryTerm
 {
 	font-weight: bold;
@@ -500,6 +465,73 @@
 	border: solid 1px #000000;
 	margin: 0px;
 	padding: 5px;
+}
+
+.micro-response155323006 .xref
+{
+	color: #2D8DCC;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.micro-response155323006 .xref:hover
+{
+	color: #19b9f3;
+}
+
+.micro-response155323006 .popupHead
+{
+	color: blue;
+}
+
+.micro-response155323006 .popupHead:link
+{
+	color: blue;
+}
+
+.micro-response155323006 .MCTextPopupArrow
+{
+	border-bottom-color: #dcdcdc;
+}
+
+.micro-response155323006 .MCTextPopupBodyBottom .MCTextPopupArrow
+{
+	border-top-color: #dcdcdc;
+}
+
+.micro-response155323006 .dropDownHotspot
+{
+	font-weight: bold;
+	color: #427aa9;
+	text-decoration: none;
+}
+
+.micro-response155323006 .dropDownHotspot:link
+{
+	font-weight: bold;
+	color: #427aa9;
+	text-decoration: none;
+}
+
+.micro-response155323006 .MCDropDown_Open .MCDropDownHotSpot_.MCHotSpotImage
+{
+	background-position: left;
+	background-image: url('arrow-down-gray.png');
+	padding-left: 0px;
+	padding-right: 0;
+}
+
+.micro-response155323006 .MCDropDown_Closed .MCDropDownHotSpot_.MCHotSpotImage
+{
+	background-position: left;
+	background-image: url('arrow-right-gray.png');
+	padding-left: 0px;
+	padding-right: 0;
+}
+
+.micro-response155323006 .dropDownHead
+{
+	text-decoration: none;
 }
 
 .micro-response155323006 .MCWebHelpFramesetLink a

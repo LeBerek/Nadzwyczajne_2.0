@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/Exceptional Consignments/Definition.htm'],s:['+','resourc'],p:[['+',2],['decide',1],['majority',9],['speed',38]]});
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/Exceptional Consignments/Definition.htm'],s:['+','miscellan'],p:[['+',2],['carrying',19],['fouling',5],['multiple',22],['rules',11],['type',24]]});

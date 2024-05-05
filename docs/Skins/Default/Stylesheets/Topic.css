@@ -430,41 +430,6 @@ a.glossaryTerm
 	opacity: 0;
 }
 
-.dropDownHotspot
-{
-	font-weight: bold;
-	color: #427aa9;
-	text-decoration: none;
-}
-
-.dropDownHotspot:link
-{
-	font-weight: bold;
-	color: #427aa9;
-	text-decoration: none;
-}
-
-.MCDropDown_Open .MCDropDownHotSpot_.MCHotSpotImage
-{
-	background-position: left;
-	background-image: url('arrow-down-gray.png');
-	padding-left: 0px;
-	padding-right: 0;
-}
-
-.MCDropDown_Closed .MCDropDownHotSpot_.MCHotSpotImage
-{
-	background-position: left;
-	background-image: url('arrow-right-gray.png');
-	padding-left: 0px;
-	padding-right: 0;
-}
-
-.dropDownHead
-{
-	text-decoration: none;
-}
-
 .glossaryTerm
 {
 	font-weight: bold;
@@ -500,6 +465,73 @@ a.glossaryTerm
 	border: solid 1px #000000;
 	margin: 0px;
 	padding: 5px;
+}
+
+.xref
+{
+	color: #2D8DCC;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.xref:hover
+{
+	color: #19b9f3;
+}
+
+.popupHead
+{
+	color: blue;
+}
+
+.popupHead:link
+{
+	color: blue;
+}
+
+.MCTextPopupArrow
+{
+	border-bottom-color: #dcdcdc;
+}
+
+.MCTextPopupBodyBottom .MCTextPopupArrow
+{
+	border-top-color: #dcdcdc;
+}
+
+.dropDownHotspot
+{
+	font-weight: bold;
+	color: #427aa9;
+	text-decoration: none;
+}
+
+.dropDownHotspot:link
+{
+	font-weight: bold;
+	color: #427aa9;
+	text-decoration: none;
+}
+
+.MCDropDown_Open .MCDropDownHotSpot_.MCHotSpotImage
+{
+	background-position: left;
+	background-image: url('arrow-down-gray.png');
+	padding-left: 0px;
+	padding-right: 0;
+}
+
+.MCDropDown_Closed .MCDropDownHotSpot_.MCHotSpotImage
+{
+	background-position: left;
+	background-image: url('arrow-right-gray.png');
+	padding-left: 0px;
+	padding-right: 0;
+}
+
+.dropDownHead
+{
+	text-decoration: none;
 }
 
 .MCWebHelpFramesetLink a
