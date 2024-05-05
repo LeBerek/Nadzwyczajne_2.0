@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term0"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Vehicle">
+    <Terms>
+      <Term>SMS</Term>
+    </Terms>
+    <Definition
+      Link="">Safety Management System</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term1"
+    Stem=""
+    SortAs="Abbreviation"
+    IgnoreCase="false">
+    <Terms>
+      <Term>RINF</Term>
+    </Terms>
+    <Definition
+      Link="">Register of Infrastructure</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term2"
+    Stem=""
+    SortAs="Vehicle"
+    IgnoreCase="false">
+    <Terms>
+      <Term>European Vehicle Number (EVN)</Term>
+    </Terms>
+    <Definition
+      Link="">The unique number consists of 12-digits which identify technical characteristics of the railway vehicle. EVNs are managed in the European Vehicle Register (EVR).</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term3"
+    Stem=""
+    SortAs="Vehicle"
+    IgnoreCase="false">
+    <Terms>
+      <Term>European Vehicle Number (EVN) Status</Term>
+    </Terms>
+    <Definition
+      Link="">Reserved Status:
+The status is assigned during the testing phase of a vehicle.The number is allocated but not yet officially assigned to the vehicle. The number may be already marked on the vehicle. The number remains in a reserved state until the vehicle is ready for market introduction.
+Active Status:
+When a vehicle is ready to be introduced to the market, the reserved EVN becomes active. It signifies that the vehicle is officially registered and operational.
+Deleted Status:
+The status indicates that the EVN is no longer valid. The reason for EVN deletion can be for any reason, for example the vehicle is no longer in service or if the registration needs to be revoked.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    SortAs="Path"
+    glossTerm="RailGlossary.Term4">
+    <Terms>
+      <Term>route compatibility check</Term>
+    </Terms>
+    <Definition>As described in Appendix D1 of TSI OPE (Commission Implementing Regulation (EU) 2019/773)</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term5"
+    Stem=""
+    SortAs="Vehicle"
+    IgnoreCase="false">
+    <Terms>
+      <Term>ERATV</Term>
+    </Terms>
+    <Definition
+      Link="">European Register of Authorised Types of Vehicle</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term6"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Abbreviation">
+    <Terms>
+      <Term>RU</Term>
+    </Terms>
+    <Definition
+      Link="">Railway Undertaking</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term7"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Entieties">
+    <Terms>
+      <Term>IM</Term>
+    </Terms>
+    <Definition
+      Link="">Infrastructure Manager</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term8"
+    Stem=""
+    SortAs="Abbreviations"
+    IgnoreCase="false">
+    <Terms>
+      <Term>EU</Term>
+    </Terms>
+    <Definition
+      Link="">European Union</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term9"
+    Stem=""
+    SortAs="Abbreviations"
+    IgnoreCase="false">
+    <Terms>
+      <Term>EVR</Term>
+    </Terms>
+    <Definition
+      Link="">European Vehicle Register</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term10"
+    Stem=""
+    SortAs="Abbreviations"
+    IgnoreCase="false">
+    <Terms>
+      <Term>CT</Term>
+    </Terms>
+    <Definition
+      Link="">Combined Transport</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term11"
+    Stem=""
+    SortAs="Definition"
+    IgnoreCase="false">
+    <Terms>
+      <Term>IRS</Term>
+    </Terms>
+    <Definition
+      Link="">International Railways Solution - UIC document drawn up by consesnsus and applied on voluntary basis with aim to  facilitate and harmonsie railway operations.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term12"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Gauge Codes">
+    <Terms>
+      <Term>G1</Term>
+    </Terms>
+    <Definition
+      Link="">Kinematic gauge G1</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term13"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Gauge Codes">
+    <Terms>
+      <Term>G2</Term>
+    </Terms>
+    <Definition
+      Link="">Kinematic Gauge</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term14"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Gauge Codes">
+    <Terms>
+      <Term>GA</Term>
+    </Terms>
+    <Definition
+      Link="">Kinematic Gauge</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term15"
+    Stem=""
+    IgnoreCase="false"
+    SortAs="Gauge Codes">
+    <Terms>
+      <Term>GB</Term>
+    </Terms>
+    <Definition
+      Link="">Kinematic Gaguge</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term16"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>GC</Term>
+    </Terms>
+    <Definition
+      Link="">Kinematic Gauge</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term17"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>DE3</Term>
+    </Terms>
+    <Definition
+      Link="">Kinematic Gauge</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term18"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>RIV</Term>
+    </Terms>
+    <Definition
+      Link=""></Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term19"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>RIC</Term>
+    </Terms>
+    <Definition
+      Link=""></Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term20"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>TEN</Term>
+    </Terms>
+    <Definition
+      Link=""></Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term21"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>TEN GE</Term>
+    </Terms>
+    <Definition
+      Link=""></Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term22"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>TEN CW</Term>
+    </Terms>
+    <Definition
+      Link=""></Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term23"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>TSI</Term>
+    </Terms>
+    <Definition
+      Link=""></Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term24"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>p</Term>
+    </Terms>
+    <Definition
+      Link=""></Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term25"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>a</Term>
+    </Terms>
+    <Definition
+      Link=""></Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term26"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>ni</Term>
+    </Terms>
+    <Definition
+      Link=""></Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term27"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>na</Term>
+    </Terms>
+    <Definition
+      Link=""></Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term28"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>q</Term>
+    </Terms>
+    <Definition
+      Link=""></Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term29"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>w</Term>
+    </Terms>
+    <Definition
+      Link=""></Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term30"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>s</Term>
+    </Terms>
+    <Definition
+      Link=""></Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term31">
+    <Terms>
+      <Term>CW</Term>
+    </Terms>
+    <Definition>Compatible With</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term32">
+    <Terms>
+      <Term>RID</Term>
+    </Terms>
+    <Definition>International Carriage of Dangerous Goods by Rail (RID)</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term33"
+    Stem=""
+    SortAs="Abbreviations"
+    IgnoreCase="false">
+    <Terms>
+      <Term>GCU</Term>
+    </Terms>
+    <Definition>General Contract of Use for wagons</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term34"
+    Stem=""
+    SortAs="Abbreviation"
+    IgnoreCase="false">
+    <Terms>
+      <Term>ATTI</Term>
+    </Terms>
+    <Definition
+      Link="">Agreement on Train Transfer Inspection</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term35">
+    <Terms>
+      <Term>standard gauge</Term>
+    </Terms>
+    <Definition>Track gauge 1435 mm</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    SortAs="Devinitions"
+    glossTerm="RailGlossary.Term36">
+    <Terms>
+      <Term>broad gauges</Term>
+    </Terms>
+    <Definition>Track gauges  in mm: 1520, 1524 , 1600, 1668.</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

@@ -3,7 +3,80 @@
     <head>
     </head>
     <body>
-        <h1>Vehicle Gague</h1>
-        <p>Delete this text and replace it with your own content.</p>
+        <h1>Vehicle Gauge</h1>
+        <p>Vehicle gauge is one of the technical characteristics of a railway vehicle and concerns the permitted size of a vehicle. More precisely the vehicle gauge is a set of rules encompassing a reference profile and its associated calculation rules which  determine the vehicle’s maximum exterior dimensions and the required clearance area within the infrastructure to prevent the contact of the vehicle with the structure gauge.</p>
+        <p>NOTE Rolling stock constructors apply one of the three calculation methods. Vehicle's conformity with a reference profile is declared with calculation method referred as static, kinematic or dynamic one. The calculation methods within a single reference profile are independent. That is, depending on the calculation method used, the vehicle design will make more or less use of the railway lines room capacity provided by the infrastructure manager. The static method is the oldest calculation method and the most conservative. At the same time, it is the simplest one to apply for evaluation of consignments dimensions in exceptional transports.</p>
+        <p> The infrastructure manager shall make available to market participants, in open access, information on the gauges  that are compatible with their network. Railway undertakings may find information on the permitted vehicle gauges in the <MadCap:glossaryTerm glossTerm="RailGlossary.Term1">RINF</MadCap:glossaryTerm> (in gauging section), network statements, or IMs' instructions, for example. </p>
+        <p>image [RINF]</p>
+        <p>Railway undertaking before the  operation of authorised vehicles should run <MadCap:glossaryTerm glossTerm="RailGlossary.Term4">route compatibility check</MadCap:glossaryTerm> using its <MadCap:glossaryTerm glossTerm="Glossary.Term19">SMS</MadCap:glossaryTerm> process. Vehicle's gauge check is fairly easy element of the full route compatibility check. </p>
+        <table style="width: 100%;">
+            <col style="width: 98px;" />
+            <col />
+            <col />
+            <col />
+            <col />
+            <col />
+            <tbody>
+                <tr>
+                    <td rowspan="2">Interface</td>
+                    <td colspan="2">Vehicle data in ERATV <br />and  
+technical file</td>
+                    <td colspan="2">Route information available<br /> in  
+RINF or provided byIM</td>
+                    <td>&#160;</td>
+                </tr>
+                <tr>
+                    <td>ERATV</td>
+                    <td>Value</td>
+                    <td>RINF reference</td>
+                    <td>Value</td>
+                    <td>Result</td>
+                </tr>
+                <tr>
+                    <td>Gauge</td>
+                    <td> 4.2.1</td>
+                    <td>G1</td>
+                    <td>1.1.1.1.3.1.1
+ 1.2.1.0.3.4</td>
+                    <td>G1</td>
+                    <td>&#160;</td>
+                </tr>
+                <tr>
+                    <td>Gauge</td>
+                    <td>4.2.1</td>
+                    <td>G2</td>
+                    <td>1.1.1.1.3.1.1
+ 1.2.1.0.3.4</td>
+                    <td>G1</td>
+                    <td>&#160;</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&#160;</p>
+        <p>Values G1 G2 refer to the kinematic gauges as specified in TSIs. Note that some IMs like for example in Poland requires that vechicles conform with static vehicle gauge profiles. In such case just comparing the ERATV data and RINF data is insufficient to decide if a vehicle built to kinematic gauge conforms with static gauge of declared profile. In such case the only way to examine a vehicle is inspection of detailed vehicle's drawing or study restriction analisys calcultion. The later type of document is rarely made available to RUs.</p>
+        <p>Examples of Gauge ERATV i zjęcia.<br /></p>
+        <p>In the case of the exceptional transport gauging i One of the elements of the check is the compatibility between Vehicles(s)<br />Thus railway undertaking checks:<br /></p>
+        <ul>
+            <li>Compatibility between Vehicles(s)</li>
+        </ul>
+        <p>Railway Undertaking checks if :</p>
+        <ul>
+            <li>Vehicle(s) i authorised and regirstered</li>
+        </ul>
+        <p>&#160;</p>
+        <p> before the use of authorised vehicles</p>
+        <p>Compatibility between Vehicle(s)</p>
+        <p>and indented Route(s)</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>In Europe, on 1435 mm tracks, currently just one vehicle gauge  is accepted as fully interoperable, and it is designated with symbol G1.</p>
+        <p>&#160;</p>
+        <p>To announce the accepted kinematic vehicle gauge(s) including pantograph gauge. Technical Characteristics</p>
+        <p>&#160;</p>
+        <p>Technical Characteristics: Vehicle Kinematic Gauge</p>
+        <p>This section form (Figure 24) contains the parameters related to the Vehicle Kinematic Gauge. The form contains the following parameters:</p>
+        <p>“4.2.1 Vehicle kinematic gauge”: the user can select multiple values from a predefined list.</p>
+        <p>“4.2.2 Vehicle kinematic gauge”: the user can select multiple values from a predefined list.</p>
+        <p>&#160;</p>
     </body>
 </html>
