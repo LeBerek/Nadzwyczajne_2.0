@@ -467,6 +467,11 @@ a.glossaryTerm
 	padding: 5px;
 }
 
+.img
+{
+	max-width: 100%;
+}
+
 .xref
 {
 	color: #2D8DCC;
