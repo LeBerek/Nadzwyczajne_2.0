@@ -88,6 +88,6 @@
   </Stylesheet>
   <TopicToolbar
     EnableCustomLayout="true"
-    Buttons="PreviousTopic|CurrentTopicIndex|NextTopic|ExpandAll" />
+    Buttons="PreviousTopic|TopicRatings|NextTopic|ExpandAll" />
   <Strings />
 </CatapultSkin>

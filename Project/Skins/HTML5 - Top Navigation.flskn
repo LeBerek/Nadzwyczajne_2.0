@@ -6,7 +6,10 @@
   TemplateName="Fluid"
   Comment="HTML5 Fluid Layout"
   EnableResponsiveOutput="true"
-  RemoveImagesOnSave="true">
+  RemoveImagesOnSave="true"
+  AutoSyncTOC="false"
+  CommentsInTopic="false"
+  DisplayCommunitySearchResults="false">
   <Stylesheet>
     <Resources>
       <Resource
