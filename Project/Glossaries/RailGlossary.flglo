@@ -4,7 +4,7 @@
     glossTerm="RailGlossary.Term0"
     Stem=""
     IgnoreCase="false"
-    SortAs="Vehicle">
+    SortAs="Abbreviations">
     <Terms>
       <Term>SMS</Term>
     </Terms>
@@ -14,7 +14,7 @@
   <GlossaryEntry
     glossTerm="RailGlossary.Term1"
     Stem=""
-    SortAs="Abbreviation"
+    SortAs="Abbreviations"
     IgnoreCase="false">
     <Terms>
       <Term>RINF</Term>
@@ -25,7 +25,7 @@
   <GlossaryEntry
     glossTerm="RailGlossary.Term2"
     Stem=""
-    SortAs="Vehicle"
+    SortAs="Definitions"
     IgnoreCase="false">
     <Terms>
       <Term>European Vehicle Number (EVN)</Term>
@@ -36,7 +36,7 @@
   <GlossaryEntry
     glossTerm="RailGlossary.Term3"
     Stem=""
-    SortAs="Vehicle"
+    SortAs="Definitions"
     IgnoreCase="false">
     <Terms>
       <Term>European Vehicle Number (EVN) Status</Term>
@@ -50,17 +50,20 @@ Deleted Status:
 The status indicates that the EVN is no longer valid. The reason for EVN deletion can be for any reason, for example the vehicle is no longer in service or if the registration needs to be revoked.</Definition>
   </GlossaryEntry>
   <GlossaryEntry
-    SortAs="Path"
-    glossTerm="RailGlossary.Term4">
+    SortAs="Definitions"
+    glossTerm="RailGlossary.Term4"
+    Stem=""
+    IgnoreCase="false">
     <Terms>
       <Term>route compatibility check</Term>
     </Terms>
-    <Definition>As described in Appendix D1 of TSI OPE (Commission Implementing Regulation (EU) 2019/773)</Definition>
+    <Definition
+      Link="">As described in Appendix D1 of TSI OPE (Commission Implementing Regulation (EU) 2019/773).</Definition>
   </GlossaryEntry>
   <GlossaryEntry
     glossTerm="RailGlossary.Term5"
     Stem=""
-    SortAs="Vehicle"
+    SortAs="Abbreviations"
     IgnoreCase="false">
     <Terms>
       <Term>ERATV</Term>
@@ -72,7 +75,7 @@ The status indicates that the EVN is no longer valid. The reason for EVN deletio
     glossTerm="RailGlossary.Term6"
     Stem=""
     IgnoreCase="false"
-    SortAs="Abbreviation">
+    SortAs="Abbreviations">
     <Terms>
       <Term>RU</Term>
     </Terms>
@@ -83,7 +86,7 @@ The status indicates that the EVN is no longer valid. The reason for EVN deletio
     glossTerm="RailGlossary.Term7"
     Stem=""
     IgnoreCase="false"
-    SortAs="Entieties">
+    SortAs="Abbreviations">
     <Terms>
       <Term>IM</Term>
     </Terms>
@@ -126,7 +129,7 @@ The status indicates that the EVN is no longer valid. The reason for EVN deletio
   <GlossaryEntry
     glossTerm="RailGlossary.Term11"
     Stem=""
-    SortAs="Definition"
+    SortAs="Definitions"
     IgnoreCase="false">
     <Terms>
       <Term>IRS</Term>
@@ -181,7 +184,8 @@ The status indicates that the EVN is no longer valid. The reason for EVN deletio
   <GlossaryEntry
     glossTerm="RailGlossary.Term16"
     Stem=""
-    IgnoreCase="false">
+    IgnoreCase="false"
+    SortAs="Gauge Codes">
     <Terms>
       <Term>GC</Term>
     </Terms>
@@ -191,156 +195,178 @@ The status indicates that the EVN is no longer valid. The reason for EVN deletio
   <GlossaryEntry
     glossTerm="RailGlossary.Term17"
     Stem=""
-    IgnoreCase="false">
+    IgnoreCase="false"
+    SortAs="Gauge Codes">
     <Terms>
       <Term>DE3</Term>
     </Terms>
     <Definition
-      Link="">Kinematic Gauge</Definition>
+      Link="">Kinematic Gauge for passenger rolling stock</Definition>
   </GlossaryEntry>
   <GlossaryEntry
     glossTerm="RailGlossary.Term18"
     Stem=""
-    IgnoreCase="false">
+    IgnoreCase="false"
+    SortAs="Definitions">
     <Terms>
       <Term>RIV</Term>
     </Terms>
     <Definition
-      Link=""></Definition>
+      Link="">Regolamento Internazionale Veicoli - agreement on the reciprocal use of freight wagons in international transport.</Definition>
   </GlossaryEntry>
   <GlossaryEntry
     glossTerm="RailGlossary.Term19"
     Stem=""
-    IgnoreCase="false">
+    IgnoreCase="false"
+    SortAs="Definitions">
     <Terms>
       <Term>RIC</Term>
     </Terms>
     <Definition
-      Link=""></Definition>
+      Link="">Regolamento Internazionale delle Carrozze - the agreement governing the exchange and use of coaches.</Definition>
   </GlossaryEntry>
   <GlossaryEntry
     glossTerm="RailGlossary.Term20"
     Stem=""
-    IgnoreCase="false">
+    IgnoreCase="false"
+    SortAs="Devinitions">
     <Terms>
       <Term>TEN</Term>
     </Terms>
     <Definition
-      Link=""></Definition>
+      Link="">Trans-European Network - marking on new wagons  (build since 2006) may appear alongside or additional markings indicating the vehicle gauge.</Definition>
   </GlossaryEntry>
   <GlossaryEntry
     glossTerm="RailGlossary.Term21"
     Stem=""
-    IgnoreCase="false">
+    IgnoreCase="false"
+    SortAs="Definitions">
     <Terms>
       <Term>TEN GE</Term>
     </Terms>
     <Definition
-      Link=""></Definition>
+      Link="">For wagons meeting all the requirements of the Wagons TSI WAG, the pictogram GE is used in conjunction with characters 2 or 3 of the wagon number and the "TEN" marking.</Definition>
   </GlossaryEntry>
   <GlossaryEntry
     glossTerm="RailGlossary.Term22"
     Stem=""
-    IgnoreCase="false">
+    IgnoreCase="false"
+    SortAs="Definitions">
     <Terms>
       <Term>TEN CW</Term>
     </Terms>
     <Definition
-      Link=""></Definition>
+      Link="">For wagons TSI WAG-compliant but which deviate in terms of their wheelbase or vehicle gauge, or which are subject to other operating restrictions when used in wagonload traffic. The marking used in conjunction with characters 4 or 8 of the wagon number, and the "TEN" marking.</Definition>
   </GlossaryEntry>
   <GlossaryEntry
     glossTerm="RailGlossary.Term23"
     Stem=""
-    IgnoreCase="false">
+    IgnoreCase="false"
+    SortAs="Abbreviations">
     <Terms>
       <Term>TSI</Term>
     </Terms>
     <Definition
-      Link=""></Definition>
+      Link="">Technical Specifications for Interoperability</Definition>
   </GlossaryEntry>
   <GlossaryEntry
     glossTerm="RailGlossary.Term24"
     Stem=""
-    IgnoreCase="false">
+    IgnoreCase="false"
+    SortAs="Calculation Symbols">
     <Terms>
       <Term>p</Term>
     </Terms>
     <Definition
-      Link=""></Definition>
+      Link="">Bogie wheelbase.</Definition>
   </GlossaryEntry>
   <GlossaryEntry
     glossTerm="RailGlossary.Term25"
     Stem=""
-    IgnoreCase="false">
+    IgnoreCase="false"
+    SortAs="Calculation Symbols">
     <Terms>
       <Term>a</Term>
     </Terms>
     <Definition
-      Link=""></Definition>
+      Link="">Distance between the end axles of vehicles not fitted with bogies or between the pivots of bogie wagons.</Definition>
   </GlossaryEntry>
   <GlossaryEntry
     glossTerm="RailGlossary.Term26"
     Stem=""
-    IgnoreCase="false">
+    IgnoreCase="false"
+    SortAs="Calculation Symbols">
     <Terms>
       <Term>ni</Term>
     </Terms>
     <Definition
-      Link=""></Definition>
+      Link="">Distance of the section, for sections located between the axles or bogie pivots.</Definition>
   </GlossaryEntry>
   <GlossaryEntry
     glossTerm="RailGlossary.Term27"
     Stem=""
-    IgnoreCase="false">
+    IgnoreCase="false"
+    SortAs="Calculation Symbols">
     <Terms>
       <Term>na</Term>
     </Terms>
     <Definition
-      Link=""></Definition>
+      Link="">Distance of the section for the sections located outside the axles or bogie pivots.</Definition>
   </GlossaryEntry>
   <GlossaryEntry
     glossTerm="RailGlossary.Term28"
     Stem=""
-    IgnoreCase="false">
+    IgnoreCase="false"
+    SortAs="Calculation Symbols">
     <Terms>
       <Term>q</Term>
     </Terms>
     <Definition
-      Link=""></Definition>
+      Link="">Lateral play between axle and bogie frame or between axle and vehicle body in the case of axle vehicles.</Definition>
   </GlossaryEntry>
   <GlossaryEntry
     glossTerm="RailGlossary.Term29"
     Stem=""
-    IgnoreCase="false">
+    IgnoreCase="false"
+    SortAs="Calculation Symbols">
     <Terms>
       <Term>w</Term>
     </Terms>
     <Definition
-      Link=""></Definition>
+      Link="">Lateral play between bogie and vehicle body.</Definition>
   </GlossaryEntry>
   <GlossaryEntry
     glossTerm="RailGlossary.Term30"
     Stem=""
-    IgnoreCase="false">
+    IgnoreCase="false"
+    SortAs="Calculation Symbols">
     <Terms>
       <Term>s</Term>
     </Terms>
     <Definition
-      Link=""></Definition>
+      Link="">Vehicle coefficient of flexilbility.</Definition>
   </GlossaryEntry>
   <GlossaryEntry
-    glossTerm="RailGlossary.Term31">
+    glossTerm="RailGlossary.Term31"
+    Stem=""
+    SortAs="Abbreviations"
+    IgnoreCase="false">
     <Terms>
       <Term>CW</Term>
     </Terms>
-    <Definition>Compatible With</Definition>
+    <Definition
+      Link="">Compatible With</Definition>
   </GlossaryEntry>
   <GlossaryEntry
-    glossTerm="RailGlossary.Term32">
+    glossTerm="RailGlossary.Term32"
+    Stem=""
+    SortAs="Definitions"
+    IgnoreCase="false">
     <Terms>
       <Term>RID</Term>
     </Terms>
-    <Definition>International Carriage of Dangerous Goods by Rail (RID)</Definition>
+    <Definition
+      Link="">International Carriage of Dangerous Goods by Rail (RID).</Definition>
   </GlossaryEntry>
   <GlossaryEntry
     glossTerm="RailGlossary.Term33"
@@ -350,12 +376,13 @@ The status indicates that the EVN is no longer valid. The reason for EVN deletio
     <Terms>
       <Term>GCU</Term>
     </Terms>
-    <Definition>General Contract of Use for wagons</Definition>
+    <Definition
+      Link="">General Contract of Use for Wagons</Definition>
   </GlossaryEntry>
   <GlossaryEntry
     glossTerm="RailGlossary.Term34"
     Stem=""
-    SortAs="Abbreviation"
+    SortAs="Abbreviations"
     IgnoreCase="false">
     <Terms>
       <Term>ATTI</Term>
@@ -364,18 +391,69 @@ The status indicates that the EVN is no longer valid. The reason for EVN deletio
       Link="">Agreement on Train Transfer Inspection</Definition>
   </GlossaryEntry>
   <GlossaryEntry
-    glossTerm="RailGlossary.Term35">
+    glossTerm="RailGlossary.Term35"
+    Stem=""
+    SortAs="Definitions"
+    IgnoreCase="false">
     <Terms>
       <Term>standard gauge</Term>
     </Terms>
-    <Definition>Track gauge 1435 mm</Definition>
+    <Definition
+      Link="">Track gauge 1435 mm.</Definition>
   </GlossaryEntry>
   <GlossaryEntry
     SortAs="Devinitions"
-    glossTerm="RailGlossary.Term36">
+    glossTerm="RailGlossary.Term36"
+    Stem=""
+    IgnoreCase="false">
     <Terms>
       <Term>broad gauges</Term>
     </Terms>
-    <Definition>Track gauges  in mm: 1520, 1524 , 1600, 1668.</Definition>
+    <Definition
+      Link="">Track gauges  in mm: 1520, 1524 , 1600, 1668.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    SortAs="Abbreviations"
+    glossTerm="RailGlossary.Term37"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>EC</Term>
+    </Terms>
+    <Definition
+      Link="">Exceptional Consignment</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term38"
+    Stem=""
+    SortAs="Abbreviations"
+    IgnoreCase="false">
+    <Terms>
+      <Term>HC</Term>
+    </Terms>
+    <Definition
+      Link="">HIgh Cube</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term39"
+    Stem=""
+    SortAs="Abbreviations"
+    IgnoreCase="false">
+    <Terms>
+      <Term>DIUM</Term>
+    </Terms>
+    <Definition
+      Link="">Uniform Distance Table for International Freight Traffic</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="RailGlossary.Term40"
+    Stem=""
+    SortAs="Abbreviations"
+    IgnoreCase="false">
+    <Terms>
+      <Term>NHM</Term>
+    </Terms>
+    <Definition
+      Link="">Nomenclature harmonisée des marchandises - Harmonised Commodity Code</Definition>
   </GlossaryEntry>
 </CatapultGlossary>
